@@ -1,16 +1,14 @@
-### Hi there 👋
+        _ __  __      __                                     __      __
+       (_) / / /___  / /___ _     ____ ___  __  ______  ____/ /___  / /
+      / / /_/ / __ \/ / __ `/    / __ `__ \/ / / / __ \/ __  / __ \/ / 
+     / / __  / /_/ / / /_/ /    / / / / / / /_/ / / / / /_/ / /_/ /_/  
+    /_/_/ /_/\____/_/\__,_( )  /_/ /_/ /_/\__,_/_/ /_/\__,_/\____(_)   
+                          |/                                           
+                          
+Soy Jaime Gómez-Obregón, [@JaimeObregon en Twitter](https://twitter.com/JaimeObregon), donde voy narrando mi periplo utilizando **datos y tecnología para dar más transparencia a las cosas del sector público**.
 
-<!--
-**JaimeObregon/JaimeObregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi último proyecto es [contratosdecantabria.es](https://contratosdecantabria.es), una herramienta digital interactiva para la transparencia y el análisis de la contratación pública en mi tierra.
 
-Here are some ideas to get you started:
+Me enganché a esto de los ordenadores con un Spectrum de Sinclair 😍. Si quieres saber más sobre mí, puedes leer sobre [quién soy, lo que hago y mis proyectos ](https://contratosdecantabria.es/wtf/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙂
