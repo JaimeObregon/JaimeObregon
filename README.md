@@ -7,7 +7,7 @@
                           
 Soy Jaime Gómez-Obregón, [@JaimeObregon en Twitter](https://twitter.com/JaimeObregon), donde voy narrando mi periplo utilizando **datos y tecnología para dar más transparencia a las cosas del sector público**.
 
-Mi último proyecto es [contratosdecantabria.es](https://contratosdecantabria.es), una herramienta digital interactiva para la transparencia y el análisis de la contratación pública en mi tierra. Si entras… **¡no te olvides de buscar el huevo de Pascua 😂!**
+Soy el autor de [ladonacion.es](https://ladonacion.es), un proyecto de datos y visualización que busca dar más transparencia a la Casa Real española. También he publicado [contratosdecantabria.es](https://contratosdecantabria.es), una herramienta digital interactiva para la transparencia y el análisis de la contratación pública en mi tierra. Si entras… **¡no te olvides de buscar el huevo de Pascua 😂!**
 
 Me enganché a esto de los ordenadores con [un ZX Spectrum de Sinclair](https://en.wikipedia.org/wiki/ZX_Spectrum) 😍 y soy un yonqui de programarlos desde que tenía ocho años. Tras mucho tiempo haciéndolo en una instancia privada de Gitlab, en 2020 he comenzado a trabajar aquí, en la cuenta de Github que abrí en 2010.
 
