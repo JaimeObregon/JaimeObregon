@@ -11,6 +11,6 @@ Me enganché de chaval a esto de los ordenadores con un ZX Spectrum de Sinclair 
 [❤️ En Patreon](https://www.patreon.com/jaime_gomez_obregon)
 
 <!-- prettier-ignore -->
-| La donación | contratosdecantabria.es | Retrogipuzkoa | SuperBOE |
+| La&nbsp;donación | contratosdecantabria.es | Retrogipuzkoa | SuperBOE |
 | ----------- | ----------------------- | ------------- | -------- |
 | [<img src="ladonacion.webp" alt="La donación" width="240">](https://ladonacion.es) | [<img src="contratosdecantabria.webp" alt="contratosdecantabria.es" width="240">](https://contratosdecantabria.es) | [<img src="retrogipuzkoa.webp" alt="Retrogipuzkoa" width="240">](https://retrogipuzkoa.com) | [<img src="superboe.webp" alt="SuperBOE" width="240">](https://superboe.es) |
