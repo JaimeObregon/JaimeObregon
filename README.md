@@ -1,16 +1,17 @@
-        _ __  __      __                                     __      __
-       (_) / / /___  / /___ _     ____ ___  __  ______  ____/ /___  / /
-      / / /_/ / __ \/ / __ `/    / __ `__ \/ / / / __ \/ __  / __ \/ / 
-     / / __  / /_/ / / /_/ /    / / / / / / /_/ / / / / /_/ / /_/ /_/  
-    /_/_/ /_/\____/_/\__,_( )  /_/ /_/ /_/\__,_/_/ /_/\__,_/\____(_)   
-                          |/                                           
-                          
-Soy Jaime Gómez-Obregón, [@JaimeObregon en Twitter](https://twitter.com/JaimeObregon), donde voy narrando mi periplo utilizando **datos y tecnología para dar más transparencia a las cosas del sector público**.
+## 👋 ¡Hola, mundo! Soy Jaime Gómez-Obregón
 
-Soy el autor de [ladonacion.es](https://ladonacion.es), un proyecto de datos y visualización que busca dar más transparencia a la Casa Real española. También he publicado [contratosdecantabria.es](https://contratosdecantabria.es), una herramienta digital interactiva para la transparencia y el análisis de la contratación pública en mi tierra. Si entras… **¡no te olvides de buscar el huevo de Pascua 😂!**
+Y este es mi GitHub, donde comparto mis proyectos con el mundo como _software_ libre. También estoy [en Twitter](https://twitter.com/JaimeObregon), donde narro mi periplo utilizando **tecnología y ciencia de datos para dar más transparencia al sector público**. Todo es posible gracias a [mis patronos](https://www.patreon.com/jaime_gomez_obregon), que me apoyan en un _crowdfunding_. ❤️
 
-Me enganché a esto de los ordenadores con [un ZX Spectrum de Sinclair](https://en.wikipedia.org/wiki/ZX_Spectrum) 😍 y soy un yonqui de programarlos desde que tenía ocho años. Tras mucho tiempo haciéndolo en una instancia privada de Gitlab, en 2020 he comenzado a trabajar aquí, en la cuenta de Github que abrí en 2010.
+Me enganché de chaval a esto de los ordenadores con un ZX Spectrum de Sinclair 😍 y desde entonces soy un _yonqui_ de programarlos. Si quieres saber **más sobre mí, mis proyectos o mis conferencias**, puedes echarle un vistazo a [mi sitio web personal](https://jaime.gomezobregon.com).
 
-Si quieres saber más sobre mí, puedes leer sobre [quién soy, lo que hago y mis proyectos ](https://contratosdecantabria.es/wtf/). También puedes darte una vuelta por [mi blog personal](https://jaime.gomezobregon.com), cuyo código fuente y contenidos también están aquí, en Github.
+[🙋 Mi sitio web](https://jaime.gomezobregon.com) |
+[💬 En Twitter](https://twitter.com/jaimeobregon) |
+[🌍 En LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
+[❤️ En Patreon](https://www.patreon.com/jaime_gomez_obregon)
 
-🙂
+### Algunos de mis trabajos
+
+<!-- prettier-ignore -->
+| La donación | contratosdecantabria.es | Retrogipuzkoa | SuperBOE |
+| ----------- | ----------------------- | ------------- | -------- |
+| [<img src="ladonacion.webp" alt="La donación" width="2316" height="1310">](https://ladonacion.es) | [<img src="contratosdecantabria.webp" alt="contratosdecantabria.es" width="2316" height="1310">](https://contratosdecantabria.es) | [<img src="retrogipuzkoa.webp" alt="Retrogipuzkoa" width="2316" height="1310">](https://retrogipuzkoa.com) | [<img src="superboe.webp" alt="SuperBOE" width="2316" height="1310">](https://superboe.es) |
