@@ -5,6 +5,7 @@ Y este es mi GitHub, donde comparto mis proyectos con el mundo como _software_ l
 Me enganché de chaval a esto de los ordenadores con un ZX Spectrum de Sinclair 😍 y desde entonces soy un _yonqui_ de programarlos. Si quieres saber **más sobre mí, mis proyectos o mis conferencias**, puedes echarle un vistazo a [mi sitio web personal](https://jaime.gomezobregon.com).
 
 [🙋 Mi sitio web](https://jaime.gomezobregon.com) |
+[📙 En Wikipedia](https://es.wikipedia.org/wiki/Jaime_G%C3%B3mez-Obreg%C3%B3n) |
 [💬 En Twitter](https://twitter.com/jaimeobregon) |
 [🌍 En LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
 [❤️ En Patreon](https://www.patreon.com/jaime_gomez_obregon)
