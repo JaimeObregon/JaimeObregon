@@ -14,3 +14,8 @@ Me enganché de chaval a esto de los ordenadores con un ZX Spectrum de Sinclair 
 | La&nbsp;donación | contratosdecantabria.es | Retrogipuzkoa | SuperBOE |
 | ----------- | ----------------------- | ------------- | -------- |
 | [<img src="ladonacion.webp" alt="La donación" width="240">](https://ladonacion.es) | [<img src="contratosdecantabria.webp" alt="contratosdecantabria.es" width="240">](https://contratosdecantabria.es) | [<img src="retrogipuzkoa.webp" alt="Retrogipuzkoa" width="240">](https://retrogipuzkoa.com) | [<img src="superboe.webp" alt="SuperBOE" width="240">](https://superboe.es) |
+
+<!-- prettier-ignore -->
+| El&nbsp;portero&nbsp;del&nbsp;metaverso | Mi&nbsp;sitio&nbsp;web&nbsp;personal |
+| --- | --- |
+| [<img src="metanavarra.webp" alt="El portero del metaverso" width="240">](https://twitter.com/JaimeObregon/status/1525510124353241093) | [<img src="jaimegomezobregon.webp" alt="Sitio web de Jaime Gómez-Obregón" width="240">](https://jaime.gomezobregon.com) |
