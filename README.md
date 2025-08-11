@@ -4,14 +4,14 @@ I use tech and data science to bring more openness to politics and public life �
 
 I’ve been hooked on computers since 1986, when a Sinclair ZX Spectrum 😍 showed up at home.
 
-Here I share some of my projects and chronicle my journey on social media. All of this is possible thanks to [my patrons](https://www.patreon.com/jaime_gomez_obregon) ❤️\*\*.
+Here I share some of my projects and chronicle my journey on social media. **All of this is possible thanks to [❤️ my patrons](https://www.patreon.com/jaime_gomez_obregon)**.
 
-[🙋 My website](https://jaime.gomezobregon.com) |
-[❤️ Patreon](https://www.patreon.com/jaime_gomez_obregon) |
-[💬 𝐗](https://x.com/JaimeObregon) |
-[🌍 LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
-[💬 Bluesky](https://bsky.app/profile/gomezobregon.com) |
-[📙 Wikipedia](https://es.wikipedia.org/wiki/Jaime_G%C3%B3mez-Obreg%C3%B3n)
+[My website](https://jaime.gomezobregon.com) |
+[Patreon](https://www.patreon.com/jaime_gomez_obregon) |
+[𝐗](https://x.com/JaimeObregon) |
+[LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
+[Bluesky](https://bsky.app/profile/gomezobregon.com) |
+[Wikipedia](https://es.wikipedia.org/wiki/Jaime_G%C3%B3mez-Obreg%C3%B3n)
 
 <!-- prettier-ignore -->
 | La&nbsp;donación | contratosdecantabria.es | Retrogipuzkoa | contractacio.cat |
