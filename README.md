@@ -1,21 +1,24 @@
-## 👋 ¡Hola, mundo! Soy Jaime Gómez-Obregón
+## 👋 Hello, world! Jaime Gómez-Obregón at the keyboard
 
-Y este es mi GitHub, donde comparto mis proyectos con el mundo como _software_ libre. También estoy [en X (Twitter)](https://x.com/JaimeObregon), donde narro mi periplo utilizando **tecnología y ciencia de datos para dar más transparencia al sector público**. Todo es posible gracias a [mis patronos](https://www.patreon.com/jaime_gomez_obregon), que me apoyan en un _crowdfunding_. ❤️
+I use tech and data science to bring more openness to politics and public life — and to shine a light on how government works.
 
-Me enganché de chaval a esto de los ordenadores con un ZX Spectrum de Sinclair 😍 y desde entonces soy un _yonqui_ de programarlos. Si quieres saber **más sobre mí, mis proyectos o mis conferencias**, puedes echarle un vistazo a [mi sitio web](https://jaime.gomezobregon.com) personal.
+I’ve been hooked on computers since 1986, when a Sinclair ZX Spectrum 😍 showed up at home.
 
-[🙋 Mi sitio web](https://jaime.gomezobregon.com) |
-[💬 En X](https://x.com/JaimeObregon) |
-[🌍 En LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
-[❤️ En Patreon](https://www.patreon.com/jaime_gomez_obregon) |
-[📙 En Wikipedia](https://es.wikipedia.org/wiki/Jaime_G%C3%B3mez-Obreg%C3%B3n)
+Here I share some of my projects and chronicle my journey on social media. All of this is possible thanks to [my patrons](https://www.patreon.com/jaime_gomez_obregon) ❤️\*\*.
+
+[🙋 My website](https://jaime.gomezobregon.com) |
+[❤️ Patreon](https://www.patreon.com/jaime_gomez_obregon) |
+[💬 𝐗](https://x.com/JaimeObregon) |
+[🌍 LinkedIn](https://www.linkedin.com/in/jaimegomezobregon) |
+[💬 Bluesky](https://bsky.app/profile/gomezobregon.com) |
+[📙 Wikipedia](https://es.wikipedia.org/wiki/Jaime_G%C3%B3mez-Obreg%C3%B3n)
 
 <!-- prettier-ignore -->
-| La&nbsp;donación | contratosdecantabria.es | Retrogipuzkoa | SuperBOE |
+| La&nbsp;donación | contratosdecantabria.es | Retrogipuzkoa | contractacio.cat |
 | ----------- | ----------------------- | ------------- | -------- |
-| [<img src="ladonacion.avif" alt="La donación" width="240">](https://ladonacion.es) | [<img src="contratosdecantabria.avif" alt="contratosdecantabria.es" width="240">](https://contratosdecantabria.es) | [<img src="retrogipuzkoa.avif" alt="Retrogipuzkoa" width="240">](https://retrogipuzkoa.com) | [<img src="superboe.avif" alt="SuperBOE" width="240">](https://superboe.es) |
+| [<img src="ladonacion.avif" alt="La donación" width="240">](https://ladonacion.es) | [<img src="contratosdecantabria.avif" alt="contratosdecantabria.es" width="240">](https://contratosdecantabria.es) | [<img src="retrogipuzkoa.avif" alt="Retrogipuzkoa" width="240">](https://retrogipuzkoa.com) | [<img src="contractacio.cat.avif" alt="contractacio.cat" width="240">](https://contractacio.cat)
 
 <!-- prettier-ignore -->
-| observatoriospublicos.es | El&nbsp;portero&nbsp;del&nbsp;metaverso | Mi&nbsp;sitio&nbsp;web&nbsp;personal | gobiernovasco.marketing |
+| observatoriospublicos.es | SuperBOE | El&nbsp;portero&nbsp;del&nbsp;metaverso | gobiernovasco.marketing |
 | --- | --- | --- | --- |
-| [<img src="observatoriospublicos.avif" alt="observatoriospublicos.es" width="240">](https://observatoriospublicos.es) | [<img src="metanavarra.avif" alt="El portero del metaverso" width="240">](https://twitter.com/JaimeObregon/status/1525510124353241093) | [<img src="jaimegomezobregon.avif" alt="Sitio web de Jaime Gómez-Obregón" width="240">](https://jaime.gomezobregon.com) | [<img src="gobiernovasco.avif" alt="gobiernovasco.marketing" width="240">](https://gobiernovasco.marketing) |
+| [<img src="observatoriospublicos.avif" alt="observatoriospublicos.es" width="240">](https://observatoriospublicos.es) | [<img src="superboe.avif" alt="SuperBOE" width="240">](https://superboe.es) | [<img src="metanavarra.avif" alt="El portero del metaverso" width="240">](https://twitter.com/JaimeObregon/status/1525510124353241093) | [<img src="gobiernovasco.avif" alt="gobiernovasco.marketing" width="240">](https://gobiernovasco.marketing) |
