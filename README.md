@@ -2,7 +2,7 @@
 
 I use tech and data science to bring more openness to politics and public life — and to shine a light on how government works.
 
-I’ve been hooked on computers since 1986, when a Sinclair ZX Spectrum 🤩 showed up at home.
+I’ve been hooked on computers since 1986, when a Sinclair ZX Spectrum 🤩 showed up at home. My oldest surviving programs date back to 1994, and, overcoming the embarrassment, I’ve published them in [institutoware](https://github.com/JaimeObregon/institutoware) ("highschoolware").
 
 Here I share some of my projects while I chronicle my journey on social media. All of this is possible thanks to [❤️ my patrons](https://www.patreon.com/jaime_gomez_obregon).
 
